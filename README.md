@@ -41,7 +41,7 @@ I have also given workshops for the university and participated in activities su
 ## 📂 Featured Projects
 ### College Projects
 - [UVash](https://github.com/ALVPI/ESO): This is one of my university practices, the goal, is create a functional shell under some conditions and instructions of our teachers. Also, in other branch, there is my Mininx project (the second part of the subject)
- [GSI](https://github.com/ALVPI/GSI): This was my first "serious" git repo, where i push all my practice and the threorical part of a subject.
+-[GSI](https://github.com/ALVPI/GSI): This was my first "serious" git repo, where i push all my practice and the threorical part of a subject.
 - [LLM Wrapper](https://github.com/ALVPI/DIAS):  An application for a subject where i was forced to used vibecodoing to create a wrapper to Ollama.
 - [Matrix Mul using CUDA](https://github.com/ALVPI/CPARCUDA): Another practice where we have to mult two Matrix using CUDA.
 ### Personal Projects
