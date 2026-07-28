@@ -91,7 +91,7 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
         <a href="https://github.com/ALVPI/CardsAgainstHumanity-">
           <img src="https://img.shields.io/badge/Project-CardsAgainstHumanity-orange?style=for-the-badge&logo=python&labelColor=333333" alt="CAH Game" />
           <br><br>
-          <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/game.svg" width="80" height="80" alt="Game Icon" />
+          <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/games.svg" width="80" height="80" alt="Game Icon" />
           <br><br>
           <b>CAH:</b> Python Multiplayer Game
         </a>
