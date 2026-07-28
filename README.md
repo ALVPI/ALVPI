@@ -79,7 +79,8 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
         <a href="https://github.com/ALVPI/CPARCUDA">
           <img src="https://img.shields.io/badge/Project-Matrix_CUDA-red?style=for-the-badge&logo=cuda&labelColor=333333" alt="Matrix CUDA" />
           <br><br>
-          <img src="https://cdn.simpleicons.org/nvidiacuda/76B900" width="80" height="80" alt="CUDA Icon" />
+         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/NVIDIA_CUDA_logo.svg" width="80" height="80" alt="CUDA Icon" />
+          <br><br>
           <br><br>
           <b>Matrix:</b> CUDA GPU Computing
         </a>
