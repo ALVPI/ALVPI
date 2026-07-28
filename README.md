@@ -36,8 +36,8 @@ I am a Computer Science student from Spain 🇪🇸 who loves technology, video 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALVPI&show_icons=true&hide_border=true&count_private=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALVPI&layout=compact&langs_count=8&hide_border=true&theme=radical" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALVPI&theme=radical&hide_border=true" height="180em" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALVPI&layout=compact&langs_count=8&hide_border=true&theme=radical&v=2" height="180em" alt="Top Languages" />
 </div>
 
 ---
