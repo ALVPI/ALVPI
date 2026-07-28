@@ -123,8 +123,8 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
 ## 📈 Engineering Metrics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ALVPI&theme=radical&hide_border=true" height="180em" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALVPI&theme=radical&hide_border=true&bg_color=141321" height="180em" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALVPI&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180em" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALVPI&theme=radical&hide_border=true&bg_color=141321" height="180em" alt="Activity Graph" />/>
 </div>
 ---
 
