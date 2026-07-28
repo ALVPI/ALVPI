@@ -123,10 +123,10 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
 ## 📈 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALVPI&show_icons=true&hide_border=true&theme=radical&v=1" height="180em" alt="ALVPI GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALVPI&layout=compact&langs_count=8&hide_border=true&theme=radical&v=1" height="180em" alt="Top Languages" />
+  <!-- ALTERNATIVE STABLE STREAK STATS -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALVPI&theme=radical&hide_border=true" height="180em" alt="ALVPI GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALVPI&layout=compact&langs_count=8&hide_border=true&theme=radical&v=2" height="180em" alt="Top Languages" />
 </div>
-
 ---
 
 ## 📫 Connect & Collaborate
