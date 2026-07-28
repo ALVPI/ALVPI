@@ -18,32 +18,66 @@ I'm a Computer Science student from Spain 🇪🇸 who loves technology, gaming,
 ## 🛠️ My Tech Ecology & Core Skills
 
 <div align="center">
+<div align="center">
   <table border="0">
+    <!-- Row 1: Academic High Performance & Core Systems -->
     <tr>
       <td width="33%" align="center">
-        <b>Core Languages</b>
-        <br><br>
-        <img src="https://img.shields.io/badge/-C-333333?style=for-the-badge&logo=c" alt="C" />
-        <img src="https://img.shields.io/badge/-C++-333333?style=for-the-badge&logo=c%2B%2B" alt="C++" />
-        <br>
-        <img src="https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java" alt="Java" />
-        <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python" alt="Python" />
+        <a href="https://github.com/ALVPI/ESO">
+          <img src="https://img.shields.io/badge/Project-UVash_Shell-blue?style=for-the-badge&logo=shell&labelColor=333333" alt="UVash Shell" />
+          <br><br>
+          <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/console.svg" width="80" height="80" alt="Terminal Icon" />
+          <br><br>
+          <b>UVash:</b> Functional C shell.
+        </a>
       </td>
       <td width="33%" align="center">
-        <b>Environments & DevOps</b>
-        <br><br>
-        <img src="https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux" alt="Linux" />
-        <img src="https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git" alt="Git" />
-        <br>
-        <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github" alt="GitHub" />
+        <a href="https://github.com/ALVPI/DIAS">
+          <img src="https://img.shields.io/badge/Project-LLM_Wrapper-brightgreen?style=for-the-badge&logo=python&labelColor=333333" alt="LLM Wrapper" />
+          <br><br>
+          <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/robot.svg" width="80" height="80" alt="Robot Icon" />
+          <br><br>
+          <b>DIAS:</b> Ollama Python Wrapper.
+        </a>
       </td>
       <td width="33%" align="center">
-        <b>Productivity & Academics</b>
-        <br><br>
-        <img src="https://img.shields.io/badge/-Vim-333333?style=for-the-badge&logo=vim" alt="Vim" />
-        <img src="https://img.shields.io/badge/-Neovim-333333?style=for-the-badge&logo=neovim" alt="Neovim" />
-        <br>
-        <img src="https://img.shields.io/badge/-LaTeX-333333?style=for-the-badge&logo=latex" alt="LaTeX" />
+        <a href="https://github.com/ALVPI/CPARCUDA">
+          <img src="https://img.shields.io/badge/Project-Matrix_CUDA-red?style=for-the-badge&logo=cuda&labelColor=333333" alt="Matrix CUDA" />
+          <br><br>
+          <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gpu.svg" width="80" height="80" alt="GPU Icon" />
+          <br><br>
+          <b>Matrix:</b> CUDA HPC.
+        </a>
+      </td>
+    </tr>
+    <!-- Row 2: Community & Personal Work -->
+    <tr>
+      <td width="33%" align="center">
+        <a href="https://github.com/ALVPI/CardsAgainstHumanity-">
+          <img src="https://img.shields.io/badge/Project-CardsAgainstHumanity-orange?style=for-the-badge&logo=python&labelColor=333333" alt="CAH Game" />
+          <br><br>
+          <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/game.svg" width="80" height="80" alt="Game Icon" />
+          <br><br>
+          <b>CAH:</b> Custom Python Game.
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://github.com/GrupoUniversitarioDeInformatica/TalleresLatex">
+          <img src="https://img.shields.io/badge/Workshop-LaTeX-green?style=for-the-badge&logo=latex&labelColor=333333" alt="LaTeX Workshop" />
+          <br><br>
+          <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/tex.svg" width="80" height="80" alt="TeX Icon" />
+          <br><br>
+          <b>GUI LaTeX:</b> University Teaching.
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://github.com/ALVPI/EjerciciosFPRO">
+          <img src="https://img.shields.io/badge/Workshop-Java-blue?style=for-the-badge&logo=java&labelColor=333333" alt="Java Workshop" />
+          <br><br>
+          <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/coffee.svg" width="80" height="80" alt="Coffee Icon" />
+          <br><br>
+          <b>Java:</b> 1st Year Teaching.
+        </a>
       </td>
     </tr>
   </table>
