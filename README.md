@@ -79,7 +79,7 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
         <a href="https://github.com/ALVPI/CPARCUDA">
           <img src="https://img.shields.io/badge/Project-Matrix_CUDA-red?style=for-the-badge&logo=cuda&labelColor=333333" alt="Matrix CUDA" />
           <br><br>
-          <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/gpu.svg" width="80" height="80" alt="GPU Icon" />
+          <img src="https://cdn.simpleicons.org/nvidiacuda/76B900" width="80" height="80" alt="CUDA Icon" />
           <br><br>
           <b>Matrix:</b> CUDA GPU Computing
         </a>
@@ -123,7 +123,6 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
 ## 📈 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALVPI&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180em" alt="GitHub Streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALVPI&theme=radical&hide_border=true&bg_color=141321" height="180em" alt="Activity Graph" />
 </div>
 ---
