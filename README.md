@@ -10,7 +10,7 @@
 I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about software engineering, high-performance computing, and workflow optimization. When I'm not studying, gaming, or reading, you'll probably find me tweaking my NeoVim setup to absolute perfection. 
 
 - 🎓 **University & Community:** I serve as the Secretary and Community Manager for [GUI](https://gui.inf.uva.es/) (Computer Science Association at the University of Valladolid). I actively organize and teach technical workshops, and I've participated in major cyber defense exercises like NATO's *LockedShields*.
-- 🌱 **Currently exploring:** Advanced **Python**, backend architectures, and mastering terminal-based workflows.
+- 🌱 **Currently exploring:** Advanced **Python**, backend architectures,mastering terminal-based workflows and i'm starting with ai workflows.
 - ⚡ **Fun fact:** Everyone knows me as ALVPI instead of Álvaro. Feel free to do the same!
 
 ---
@@ -120,14 +120,17 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
 
 <div align="center">
   <a href="mailto:a.lopezprimo2000@icloud.com">
-    <img src="https://img.shields.io/badge/Email-ALVPI-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email ALVPI" />
+    <img src="https://img.shields.io/badge/Email-ALVPI-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://t.me/ALVPI">
     <img src="https://img.shields.io/badge/Telegram-ALVPI-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram ALVPI" />
+  </a>
+  <a href="www.linkedin.com/in/álvaro-lópez-primo-a5520b3ab">
+    <img src="https://img.shields.io/badge/LinkedIn-ALVPI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
 </div>
 
 <br>
 <p align="center">
-  <i>Thanks for checking out my corner of GitHub! Let's build something awesome.</i>
+  <i>Thanks for checking out my corner of GitHub!.</i>
 </p>
