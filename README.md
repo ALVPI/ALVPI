@@ -59,9 +59,7 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
     <tr>
       <td width="33%" align="center">
         <a href="https://github.com/ALVPI/ESO">
-          <img src="https://img.shields.io/badge/Project-UVash_Shell-blue?style=for-the-badge&logo=shell&labelColor=333333" alt="UVash Shell" />
-          <br><br>
-          <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/console.svg" width="80" height="80" alt="Terminal Icon" />
+          <img src="https://img.shields.io/badge/Project-UVash_Shell-blue?style=for-the-badge&logo=gnu-bash&labelColor=333333" alt="UVash Shell" />
           <br><br>
           <b>UVash:</b> Custom Unix Shell in C
         </a>
@@ -70,17 +68,12 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
         <a href="https://github.com/ALVPI/DIAS">
           <img src="https://img.shields.io/badge/Project-LLM_Wrapper-brightgreen?style=for-the-badge&logo=python&labelColor=333333" alt="LLM Wrapper" />
           <br><br>
-          <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/robot.svg" width="80" height="80" alt="Robot Icon" />
-          <br><br>
           <b>DIAS:</b> Ollama LLM Wrapper
         </a>
       </td>
       <td width="33%" align="center">
         <a href="https://github.com/ALVPI/CPARCUDA">
-          <img src="https://img.shields.io/badge/Project-Matrix_CUDA-red?style=for-the-badge&logo=cuda&labelColor=333333" alt="Matrix CUDA" />
-          <br><br>
-         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/NVIDIA_CUDA_logo.svg" width="80" height="80" alt="CUDA Icon" />
-          <br><br>
+          <img src="https://img.shields.io/badge/Project-Matrix_CUDA-red?style=for-the-badge&logo=nvidia&labelColor=333333" alt="Matrix CUDA" />
           <br><br>
           <b>Matrix:</b> CUDA GPU Computing
         </a>
@@ -92,8 +85,6 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
         <a href="https://github.com/ALVPI/CardsAgainstHumanity-">
           <img src="https://img.shields.io/badge/Project-CardsAgainstHumanity-orange?style=for-the-badge&logo=python&labelColor=333333" alt="CAH Game" />
           <br><br>
-         <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Video%20game/Color/video_game_color.svg" width="80" height="80" alt="Game Icon" />
-          <br><br>
           <b>CAH:</b> Python Multiplayer Game
         </a>
       </td>
@@ -101,16 +92,12 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
         <a href="https://github.com/GrupoUniversitarioDeInformatica/TalleresLatex">
           <img src="https://img.shields.io/badge/Workshop-LaTeX-green?style=for-the-badge&logo=latex&labelColor=333333" alt="LaTeX Workshop" />
           <br><br>
-          <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/tex.svg" width="80" height="80" alt="TeX Icon" />
-          <br><br>
           <b>GUI LaTeX:</b> Academic Material
         </a>
       </td>
       <td width="33%" align="center">
         <a href="https://github.com/ALVPI/EjerciciosFPRO">
           <img src="https://img.shields.io/badge/Workshop-Java-blue?style=for-the-badge&logo=java&labelColor=333333" alt="Java Workshop" />
-          <br><br>
-          <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/coffee.svg" width="80" height="80" alt="Coffee Icon" />
           <br><br>
           <b>Java:</b> Intro to OOP Curriculum
         </a>
@@ -124,8 +111,9 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
 ## 📈 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALVPI&theme=radical&hide_border=true&bg_color=141321" height="180em" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ALVPI&theme=radical&hide_border=true&background=141321" alt="GitHub Streak" />
 </div>
+
 ---
 
 ## 📫 Connect & Collaborate
