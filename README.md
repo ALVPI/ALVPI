@@ -103,9 +103,18 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
         </a>
       </td>
     </tr>
+    <!-- Row 3: External Collaborative Projects -->
+    <tr>
+      <td width="33%" align="center" colspan="3">
+        <a href="https://github.com/edgsant/CardPartner-TCG-Platform">
+          <img src="https://img.shields.io/badge/Project-CardPartner_TCG-purple?style=for-the-badge&logo=github&labelColor=333333" alt="CardPartner TCG" />
+          <br><br>
+          <b>CardPartner:</b> TCG Platform (Collaborative)
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
-
 ---
 
 ## 📈 Engineering Metrics
