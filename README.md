@@ -79,8 +79,22 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
         </a>
       </td>
     </tr>
-    <!-- Row 2: Community & Personal Work -->
+    <!-- Row 2: University & Coursework -->
     <tr>
+      <td width="33%" align="center">
+        <a href="https://github.com/ALVPI/ESI">
+          <img src="https://img.shields.io/badge/Project-ESI-yellow?style=for-the-badge&logo=code&labelColor=333333" alt="ESI Project" />
+          <br><br>
+          <b>ESI:</b> University Subject Repo
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://github.com/ALVPI/GSI">
+          <img src="https://img.shields.io/badge/Project-GSI-blueviolet?style=for-the-badge&logo=code&labelColor=333333" alt="GSI Project" />
+          <br><br>
+          <b>GSI:</b> University Subject Repo
+        </a>
+      </td>
       <td width="33%" align="center">
         <a href="https://github.com/ALVPI/CardsAgainstHumanity-">
           <img src="https://img.shields.io/badge/Project-CardsAgainstHumanity-orange?style=for-the-badge&logo=python&labelColor=333333" alt="CAH Game" />
@@ -88,6 +102,9 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
           <b>CAH:</b> Python Multiplayer Game
         </a>
       </td>
+    </tr>
+    <!-- Row 3: Workshops & Community / Collaborative -->
+    <tr>
       <td width="33%" align="center">
         <a href="https://github.com/GrupoUniversitarioDeInformatica/TalleresLatex">
           <img src="https://img.shields.io/badge/Workshop-LaTeX-green?style=for-the-badge&logo=latex&labelColor=333333" alt="LaTeX Workshop" />
@@ -102,14 +119,11 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
           <b>Java:</b> Intro to OOP Curriculum
         </a>
       </td>
-    </tr>
-    <!-- Row 3: External Collaborative Projects -->
-    <tr>
-      <td width="33%" align="center" colspan="3">
+      <td width="33%" align="center">
         <a href="https://github.com/edgsant/CardPartner-TCG-Platform">
           <img src="https://img.shields.io/badge/Project-CardPartner_TCG-purple?style=for-the-badge&logo=github&labelColor=333333" alt="CardPartner TCG" />
           <br><br>
-          <b>CardPartner:</b> TCG Platform (Collaborative)
+          <b>CardPartner:</b> TCG Platform
         </a>
       </td>
     </tr>
@@ -125,17 +139,21 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
 
 ---
 
+---
+
 ## 📫 Connect & Collaborate
 
 <div align="center">
-  <a href="mailto:a.lopezprimo2000@icloud.com">
-    <img src="https://img.shields.io/badge/Email-ALVPI-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:a.lopezprimo2000@icloud.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-ALVPI-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email ALVPI" />
   </a>
-  <a href="https://t.me/ALVPI">
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ALVPI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn ALVPI" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/ALVPI" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-ALVPI-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram ALVPI" />
-  </a>
-  <a href="www.linkedin.com/in/álvaro-lópez-primo-a5520b3ab">
-    <img src="https://img.shields.io/badge/LinkedIn-ALVPI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
 </div>
 
