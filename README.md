@@ -148,7 +148,7 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
     <img src="https://img.shields.io/badge/Email-ALVPI-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email ALVPI" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/TU-USUARIO/" target="_blank">
+  <a href="https://www.linkedin.com/in/ALVPI/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ALVPI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn ALVPI" />
   </a>
   &nbsp;&nbsp;
