@@ -85,14 +85,14 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
         <a href="https://github.com/ALVPI/ESI">
           <img src="https://img.shields.io/badge/Project-ESI-yellow?style=for-the-badge&logo=code&labelColor=333333" alt="ESI Project" />
           <br><br>
-          <b>ESI:</b> University Subject Repo
+          <b>ESI:</b> Grafana and an introduction to system management
         </a>
       </td>
       <td width="33%" align="center">
         <a href="https://github.com/ALVPI/GSI">
           <img src="https://img.shields.io/badge/Project-GSI-blueviolet?style=for-the-badge&logo=code&labelColor=333333" alt="GSI Project" />
           <br><br>
-          <b>GSI:</b> University Subject Repo
+          <b>GSI:</b> My first Github repo about cibersecurity 
         </a>
       </td>
       <td width="33%" align="center">
@@ -109,21 +109,21 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
         <a href="https://github.com/GrupoUniversitarioDeInformatica/TalleresLatex">
           <img src="https://img.shields.io/badge/Workshop-LaTeX-green?style=for-the-badge&logo=latex&labelColor=333333" alt="LaTeX Workshop" />
           <br><br>
-          <b>GUI LaTeX:</b> Academic Material
+          <b>GUI LaTeX:</b> LaTeX Workshop
         </a>
       </td>
       <td width="33%" align="center">
         <a href="https://github.com/ALVPI/EjerciciosFPRO">
           <img src="https://img.shields.io/badge/Workshop-Java-blue?style=for-the-badge&logo=java&labelColor=333333" alt="Java Workshop" />
           <br><br>
-          <b>Java:</b> Intro to OOP Curriculum
+          <b>Java:</b> Exercicies for an activite call "gyncana a de programación" for new coders
         </a>
       </td>
       <td width="33%" align="center">
         <a href="https://github.com/edgsant/CardPartner-TCG-Platform">
           <img src="https://img.shields.io/badge/Project-CardPartner_TCG-purple?style=for-the-badge&logo=github&labelColor=333333" alt="CardPartner TCG" />
           <br><br>
-          <b>CardPartner:</b> TCG Platform
+          <b>CardPartner:</b> TCG Platform using Java 
         </a>
       </td>
     </tr>
