@@ -10,7 +10,7 @@
 I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about software engineering, high-performance computing, and workflow optimization. When I'm not studying, gaming, or reading, you'll probably find me tweaking my NeoVim setup to absolute perfection. 
 
 - 🎓 **University & Community:** I serve as the Secretary and Community Manager for [GUI](https://gui.inf.uva.es/) (Computer Science Association at the University of Valladolid). I actively organize and teach technical workshops, and I've participated in major cyber defense exercises like NATO's *LockedShields*.
-- 🌱 **Currently exploring:** Advanced **Python**, backend architectures,mastering terminal-based workflows and i'm starting with ai workflows.
+- 🌱 **Currently exploring:** Advanced **Python**, backend architectures, mastering terminal-based workflows, and I'm starting with **AI workflows**.
 - ⚡ **Fun fact:** Everyone knows me as ALVPI instead of Álvaro. Feel free to do the same!
 
 ---
@@ -139,13 +139,14 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
     </tr>
   </table>
 </div>
+
+---
+
 ## 📈 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ALVPI&theme=radical&hide_border=true&background=141321" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ALVPI&theme=radical&hide_border=true&bg_color=141321" alt="GitHub Streak" />
 </div>
-
----
 
 ---
 
@@ -167,5 +168,5 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
 
 <br>
 <p align="center">
-  <i>Thanks for checking out my corner of GitHub!.</i>
+  <i>Thanks for checking out my corner of GitHub!</i>
 </p>
