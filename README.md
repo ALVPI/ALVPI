@@ -142,12 +142,12 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
 
 ---
 
-## 📈 Engineering Metrics
+## 📈 Engineering Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ALVPI&theme=radical&hide_border=true&bg_color=141321" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ALVPI&show_icons=true&theme=radical&hide_border=true&bg_color=141321" alt="GitHub Stats" />
 </div>
----
+
 
 ## 📫 Connect & Collaborate
 
