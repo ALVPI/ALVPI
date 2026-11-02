@@ -147,7 +147,6 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ALVPI&theme=radical&hide_border=true&bg_color=141321" alt="GitHub Streak" />
 </div>
-
 ---
 
 ## 📫 Connect & Collaborate
