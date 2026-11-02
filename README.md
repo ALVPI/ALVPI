@@ -85,16 +85,26 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
         <a href="https://github.com/ALVPI/ESI">
           <img src="https://img.shields.io/badge/Project-ESI-yellow?style=for-the-badge&logo=code&labelColor=333333" alt="ESI Project" />
           <br><br>
-          <b>ESI:</b> Grafana and an introduction to system management
+          <b>ESI:</b> University Subject Repo
         </a>
       </td>
       <td width="33%" align="center">
         <a href="https://github.com/ALVPI/GSI">
           <img src="https://img.shields.io/badge/Project-GSI-blueviolet?style=for-the-badge&logo=code&labelColor=333333" alt="GSI Project" />
           <br><br>
-          <b>GSI:</b> My first Github repo about cibersecurity 
+          <b>GSI:</b> University Subject Repo
         </a>
       </td>
+      <td width="33%" align="center">
+        <a href="https://github.com/ALVPI/Orquestador">
+          <img src="https://img.shields.io/badge/Project-Orquestador-informational?style=for-the-badge&logo=github&labelColor=333333" alt="Orchestrator Project" />
+          <br><br>
+          <b>Orquestador:</b> System Orchestrator
+        </a>
+      </td>
+    </tr>
+    <!-- Row 3: Games & Personal Work -->
+    <tr>
       <td width="33%" align="center">
         <a href="https://github.com/ALVPI/CardsAgainstHumanity-">
           <img src="https://img.shields.io/badge/Project-CardsAgainstHumanity-orange?style=for-the-badge&logo=python&labelColor=333333" alt="CAH Game" />
@@ -102,35 +112,33 @@ I'm a Computer Science student based in Spain 🇪🇸, deeply passionate about 
           <b>CAH:</b> Python Multiplayer Game
         </a>
       </td>
-    </tr>
-    <!-- Row 3: Workshops & Community / Collaborative -->
-    <tr>
       <td width="33%" align="center">
         <a href="https://github.com/GrupoUniversitarioDeInformatica/TalleresLatex">
           <img src="https://img.shields.io/badge/Workshop-LaTeX-green?style=for-the-badge&logo=latex&labelColor=333333" alt="LaTeX Workshop" />
           <br><br>
-          <b>GUI LaTeX:</b> LaTeX Workshop
+          <b>GUI LaTeX:</b> Academic Material
         </a>
       </td>
       <td width="33%" align="center">
         <a href="https://github.com/ALVPI/EjerciciosFPRO">
           <img src="https://img.shields.io/badge/Workshop-Java-blue?style=for-the-badge&logo=java&labelColor=333333" alt="Java Workshop" />
           <br><br>
-          <b>Java:</b> Exercicies for an activite call "gyncana a de programación" for new coders
+          <b>Java:</b> Intro to OOP Curriculum
         </a>
       </td>
-      <td width="33%" align="center">
+    </tr>
+    <!-- Row 4: External / Collaborative -->
+    <tr>
+      <td width="33%" align="center" colspan="3">
         <a href="https://github.com/edgsant/CardPartner-TCG-Platform">
           <img src="https://img.shields.io/badge/Project-CardPartner_TCG-purple?style=for-the-badge&logo=github&labelColor=333333" alt="CardPartner TCG" />
           <br><br>
-          <b>CardPartner:</b> TCG Platform using Java 
+          <b>CardPartner:</b> TCG Platform
         </a>
       </td>
     </tr>
   </table>
 </div>
----
-
 ## 📈 Engineering Metrics
 
 <div align="center">
